@@ -1,4 +1,4 @@
-github.com/irfanzidniofficial/go-say-hello v1.0.0 h1:NFVEkR2LtNBj0A4XI7CBA5pLc+l2ZvnDHHf7p0ddyvY=
-github.com/irfanzidniofficial/go-say-hello v1.0.0/go.mod h1:ZrA5Ks3P/72XX6yWVPf7Ni8ehyP7THi9GSCTDv2xaPs=
 github.com/irfanzidniofficial/go-say-hello v1.5.0 h1:4LymH6KsN0tJa8Sktnm7mR8nBcEJQDkjW45m91SucS8=
 github.com/irfanzidniofficial/go-say-hello v1.5.0/go.mod h1:ZrA5Ks3P/72XX6yWVPf7Ni8ehyP7THi9GSCTDv2xaPs=
+github.com/irfanzidniofficial/go-say-hello/v2 v2.0.0 h1:XzhJUq6RRHprfXpxQEEny6zHxkmqiFhI0IAsszsVWbk=
+github.com/irfanzidniofficial/go-say-hello/v2 v2.0.0/go.mod h1:1aPq2wWmBkA8GqxF8hzRW6GFjL/xLbUO//SM4mkt6ac=
